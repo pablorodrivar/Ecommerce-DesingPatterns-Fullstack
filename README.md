@@ -117,7 +117,7 @@ ecommerce-platform/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/ecommerce-platform.git
+git clone https://github.com/pablorodrivar/ecommerce-platform.git
 cd ecommerce-platform
 ```
 
